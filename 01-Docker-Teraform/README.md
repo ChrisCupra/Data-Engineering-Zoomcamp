@@ -1,6 +1,6 @@
 # Module 1 Homework Solutions and notes
 
-This document shows how i end up with the answers for homework 1 of Data Engineering Zoomcamp 2026
+This document shows how i end up with the answers for homework 1 of Data Engineering Zoomcamp 2026 Docker/Teraform
 
 ## Question 1. What's the version of pip in the python:3.13 image?
 

@@ -1,4 +1,9 @@
 *.parquet
+*.json
+keys/
+
+# Windows paths in Linux environment
+c:/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
